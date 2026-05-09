@@ -1,0 +1,11 @@
+
+Report Name: Monthly Sales Report
+Job ID: 38
+Generated At: 2026-05-09T13:45:31.065Z
+
+Sales Summary
+--------------
+Revenue: $50,000
+Orders: 1200
+Customers: 300
+Profit: $12,000
